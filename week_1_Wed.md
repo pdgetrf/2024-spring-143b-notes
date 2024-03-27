@@ -6,7 +6,7 @@
 
 The below is the note template.
 
-## Week X: [Topic Name]
+## Week 1: Git, Homework  
 
 ### Date: [Date]
 
